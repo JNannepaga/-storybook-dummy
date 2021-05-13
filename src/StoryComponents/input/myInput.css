@@ -1,0 +1,19 @@
+.input{
+    padding: 5px 2px 5px 2px;
+    margin: auto;
+}
+
+.small{
+    height: 5px;
+    width: 70px;
+}
+
+.medium{
+    min-height: 7px;
+    min-width: 100px;
+}
+
+.large{
+    min-height: 10px;
+    min-width: 150px;
+}
